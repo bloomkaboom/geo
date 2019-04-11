@@ -17,7 +17,7 @@
     "multer": "^1.4.1",
     "mysql2": "^1.6.5",
     "parse-error": "^0.2.0",
-    "sequelize": "^5.1.0",
+    "sequelize": "^5.3.0",
     "volleyball": "^1.5.1"
   }
 }
